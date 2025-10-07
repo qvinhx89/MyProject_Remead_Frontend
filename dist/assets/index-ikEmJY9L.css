@@ -1,0 +1,1 @@
+:root{--bg: #f7f8ff;--accent: #0070f3}*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,Arial;background:var(--bg);display:flex;align-items:center;justify-content:center;height:100vh}.hero{background:#fff;padding:32px;border-radius:12px;box-shadow:0 6px 20px #0a0a0a14;text-align:center}.hero h1{color:var(--accent);margin:0 0 8px}
